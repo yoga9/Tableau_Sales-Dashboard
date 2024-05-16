@@ -35,7 +35,10 @@ To display the Customer details by using different visuals,
 •	Sales by Top 10 Customer	
 •	Order Details 
 
-**2. Requirement Understanding**
+**2. The report objectives can be summarized as follows**
+1) Gather Data - Load data into Tableau Desktop Public, dataset is a Excel file.
+2) Create Data Model - Design and create a data model that represents the relationships between different tables in data. This step is crucial for accurate analysis and visualization.
+3) Develop Reports - Use the Tableau Public application to create reports based on the data model. Add visualizations such as charts, tables to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data. The visuals summarized as below,
 
 **KPI Cards & Sales Channels - No. of Orders :**
 Included Total Cost, Total Profit, Total Sales, Total Revenue, Total Orders, Total Products and Avg. WightingDays, as a single sheet card visuals. And Created the Sales channel wise order count as a visual. Color shows details about Sales Channel.
@@ -122,7 +125,7 @@ Sum of WightingDays broken down by "Wighting Days" vs. Order ID, Customer Name, 
 •	A dashboard allows you to quickly identify who your best customers are, where your challenges lie, and what changes might be needed to drive sales.
 •	It can also help with forecasting future revenue.
 
-**Snapshot of Sales Dashboard (Tableau Public)**
+**Snapshot of Sales Dashboard (Tableau Desktop Public)**
 
 ![image](https://github.com/yoga9/Tableau_Sales-Dashboard/assets/80407876/bf2d31d3-b21d-4b6a-a51c-9b9046776587)
 
