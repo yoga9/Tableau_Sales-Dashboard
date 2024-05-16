@@ -1,4 +1,4 @@
-Sales Dashboard
+# Sales Dashboard
 
 ### Dashboard Link : https://public.tableau.com/views/SalesWorkBook_16932521457770/SalesDashboard_1
 
@@ -17,10 +17,10 @@ Categories are,
 
 To displays the sales details by using different visuals, 
 •	KPI cards & Sales Channels - No. of Orders
-•	 Profit by Country based on Sales Channel 
+•	Profit by Country based on Sales Channel 
 •	Sales % & No. of Orders of Priority Status
-•	 Yearly Revenue Trend
-•	 Sales by Products 
+•	Yearly Revenue Trend
+•	Sales by Products 
 •	Sales by Country & No. of Products
 
 To display the ShipMode details by using different visuals,	
@@ -115,10 +115,11 @@ Sum of WightingDays broken down by "Wighting Days" vs. Order ID, Customer Name, 
 
 **3. Impacts:** 
 •	The Sales Dashboard more reliable and gives you more convenient access to sales insights.
-•	 The Dashboard is more interactive and its ability to drill down for the visuals which have Yearwise data and overall to interact with the granular details of data. 
+•	The Dashboard is more interactive and its ability to drill down for the visuals which have Yearwise data and overall to interact with the granular details of data.
+•	The data is filtered on Region, Product Type, Year, Ship Mode.
+• With the help of reset filter, The data is reset to its default view.
 •	A dashboard helps to identify the opportunities to make changes and increase revenue. 
 •	A dashboard allows you to quickly identify who your best customers are, where your challenges lie, and what changes might be needed to drive sales.
-•	The data is filtered on Region, Product Type, Year, Ship Mode. • With the help of reset filter, The data is reset to its default view.
 •	It can also help with forecasting future revenue.
 
 **Snapshot of Sales Dashboard (Tableau Public)**
