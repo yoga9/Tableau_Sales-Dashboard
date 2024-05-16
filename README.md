@@ -38,7 +38,9 @@ To display the Customer details by using different visuals,
 **2. The report objectives can be summarized as follows**
 1) Gather Data - Load data into Tableau Desktop Public, dataset is a Excel file.
 2) Create Data Model - Design and create a data model that represents the relationships between different tables in data. This step is crucial for accurate analysis and visualization.
-3) Develop Reports - Use the Tableau Public application to create reports based on the data model. Add visualizations such as charts, tables to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data. The visuals summarized as below,
+3) Create Report Background in PowerPoint.
+4) Create Slicers – Region, Year, Sales Channel and Products.
+5) Develop Reports - Use the Tableau Public application to create reports based on the data model. Add visualizations such as charts, tables to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
 
 **KPI Cards & Sales Channels - No. of Orders :**
 Included Total Cost, Total Profit, Total Sales, Total Revenue, Total Orders, Total Products and Avg. WightingDays, as a single sheet card visuals. And Created the Sales channel wise order count as a visual. Color shows details about Sales Channel.
