@@ -119,13 +119,13 @@ Sum of WightingDays broken down by "Wighting Days" vs. Order ID, Customer Name, 
 ![image](https://github.com/yoga9/Tableau_Sales-Dashboard/assets/80407876/8caca4b0-0f65-4164-bd03-9cfa6f6dceef)
 
 **3. Impacts:** 
-•	The Sales Dashboard more reliable and gives you more convenient access to sales insights.
-•	The Dashboard is more interactive and its ability to drill down for the visuals which have Yearwise data and overall to interact with the granular details of data.
-•	The data is filtered on Region, Product Type, Year, Ship Mode.
-• With the help of reset filter, The data is reset to its default view.
-•	A dashboard helps to identify the opportunities to make changes and increase revenue. 
-•	A dashboard allows you to quickly identify who your best customers are, where your challenges lie, and what changes might be needed to drive sales.
-•	It can also help with forecasting future revenue.
+1.	The Sales Dashboard more reliable and gives you more convenient access to sales insights.
+2.	The Dashboard is more interactive and its ability to drill down for the visuals which have Yearwise data and overall to interact with the granular details of data.
+3.	The data is filtered on Region, Product Type, Year, Ship Mode.
+4. With the help of reset filter, The data is reset to its default view.
+5.	A dashboard helps to identify the opportunities to make changes and increase revenue. 
+6.	A dashboard allows you to quickly identify who your best customers are, where your challenges lie, and what changes might be needed to drive sales.
+7.	It can also help with forecasting future revenue.
 
 **Snapshot of Sales Dashboard (Tableau Desktop Public)**
 
