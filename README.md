@@ -11,29 +11,29 @@ The objective of the report is to analyze and present comprehensive and interact
 To generate the three different categories in single dashboard view by using different visuals.
 Categories are,
 
-•	Sales Details
-•	ShipMode Details
-•	Customers Details
+1.	Sales Details
+2.	ShipMode Details
+3.	Customers Details
 
 To displays the sales details by using different visuals, 
-•	KPI cards & Sales Channels - No. of Orders
-•	Profit by Country based on Sales Channel 
-•	Sales % & No. of Orders of Priority Status
-•	Yearly Revenue Trend
-•	Sales by Products 
-•	Sales by Country & No. of Products
+1.	KPI cards & Sales Channels - No. of Orders
+2.	Profit by Country based on Sales Channel 
+3.	Sales % & No. of Orders of Priority Status
+4.	Yearly Revenue Trend
+5.	Sales by Products 
+6.	Sales by Country & No. of Products
 
 To display the ShipMode details by using different visuals,	
-•	ProfitRatio by ShipMode	
-•	Total Sales & Region by ShipMode	
-•	No. of Orders by ShipMode	
-•	Profit % by ShipMode	
-•	Sales % by ShipMode/No. of Customer
-•	Yearly 	Sales/Profit by ShipMode
+1.	ProfitRatio by ShipMode	
+2.	Total Sales & Region by ShipMode	
+3.	No. of Orders by ShipMode	
+4.	Profit % by ShipMode	
+5.	Sales % by ShipMode/No. of Customer
+6.	Yearly 	Sales/Profit by ShipMode
 
 To display the Customer details by using different visuals,
-•	Sales by Top 10 Customer	
-•	Order Details 
+1.	Sales by Top 10 Customer	
+2.	Order Details 
 
 **2. The report objectives can be summarized as follows**
 1) Gather Data - Load data into Tableau Desktop Public, dataset is a Excel file.
