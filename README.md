@@ -4,7 +4,7 @@
 
 **The Objective of the Sales Dashboard:**
 
-The objective of the report is to analyze and present comprehensive and interactive insights into sales, profit, revenue, orders details, profit margin, and various comparisons by different categories. It aims to provide a clear understanding of key performance indicators and trends using Tableau.
+The objective of the report is to analyze and present comprehensive and interactive insights into sales, profit, orders details, profit margin, and various comparisons by different categories. It aims to provide a clear understanding of key performance indicators and trends using Tableau.
 
 **1. Scope of the Project**
 
@@ -21,7 +21,7 @@ To displays the sales details by using different visuals,
 3.	Sales % & No. of Orders of Priority Status
 4.	Yearly Revenue Trend
 5.	Sales by Products 
-6.	Sales by Country & No. of Products
+6.	Top 10 Sales by Country & No. of Products
 
 To display the ShipMode details by using different visuals,	
 1.	ProfitRatio by ShipMode	
@@ -53,10 +53,12 @@ To display the Customer details by using different visuals,
 
 **Snapshot of Sales Dashboard (Tableau Desktop Public)**
 
-![image](https://github.com/yoga9/Tableau_Sales-Dashboard/assets/80407876/bf2d31d3-b21d-4b6a-a51c-9b9046776587)
+![image](https://github.com/user-attachments/assets/07cbb086-9bc6-4428-9273-1fbfb9a411de)
 
-![image](https://github.com/yoga9/Tableau_Sales-Dashboard/assets/80407876/de71ca77-233b-422c-97e7-9a85a954abd8)
+![Tableau_Sales_2](https://github.com/user-attachments/assets/0b390fde-c2e9-480e-b0dd-b8e99799c8b7)
 
+**Result:**
+1. The dashboard provided a comprehensive overview of sales metrics, leading to better understanding and strategic planning. Stakeholders could easily analyze key metrics and trends, resulting in improved decision-making regarding sales strategies. Specifically, the dashboard revealed that the total revenue was $137.3M, total profit was $44.2M, total orders were 100 and Avg. wighting Days were 23.36. The highest profit by country/channel was in Djibouti (Online: $1,170.8K, Offline: $1,254.5K), and the highest sales by product category was in Cosmetics (26.65%).
 
-
+2. The dashboard provided a comprehensive overview of shipping modes and customer details, leading to better understanding and strategic planning. Stakeholders could easily analyze key metrics and trends, resulting in improved decision-making regarding shipping strategies and customer management. Specifically, the dashboard revealed that the profit percentage for Second Class shipping was 41.27%, and the sales percentage for Second Class shipping was 41.81% with 36 customers. The top customer, Darren Powers, had sales of 6,336.5K.
 
